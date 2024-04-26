@@ -5,4 +5,4 @@ on:
 
 jobs:
   call-workflow:
-    uses: lealdouglas/test_tf_doug/.github/workflows/blank.yml@main
+    uses: lealdouglas/test_tf_doug/.github/workflows/blank.yml
