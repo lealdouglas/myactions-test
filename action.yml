@@ -1,0 +1,9 @@
+name: contributor-takes-action
+description: This is an action to assign yourself to an issue for a repo you are not a contributor to.
+author: Leal Douglas
+branding:
+  icon: 'thumbs-up'
+  color: 'white'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
