@@ -1,0 +1,9 @@
+name: 48 - Trigger reusables
+
+on:
+  workflow_dispatch:
+
+jobs:
+  workflow-1:
+    uses: lealdouglas/test_tf_doug/blob/main/.github/workflows/blank.yml@main
+
